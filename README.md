@@ -1,2 +1,4 @@
-# sidebar
- Sidebar with HTML and CSS
+# Sidebar
+
+ Basic sidebar with HTML and CSS
+
