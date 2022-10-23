@@ -3,6 +3,6 @@
  Basic sidebar with HTML and CSS
  ##
  
- Printscreen:
+ GIF:
  #
 <img src="print.gif" alt="Gif">
